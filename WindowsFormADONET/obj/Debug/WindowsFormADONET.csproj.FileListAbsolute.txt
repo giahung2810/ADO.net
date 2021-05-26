@@ -1,0 +1,10 @@
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\bin\Debug\WindowsFormADONET.exe.config
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\bin\Debug\WindowsFormADONET.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\bin\Debug\WindowsFormADONET.pdb
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\obj\Debug\WindowsFormADONET.csprojAssemblyReference.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\obj\Debug\WindowsFormADONET.Form1.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\obj\Debug\WindowsFormADONET.Properties.Resources.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\obj\Debug\WindowsFormADONET.csproj.GenerateResource.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\obj\Debug\WindowsFormADONET.csproj.CoreCompileInputs.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\obj\Debug\WindowsFormADONET.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormADONET\WindowsFormADONET\obj\Debug\WindowsFormADONET.pdb
